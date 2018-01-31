@@ -1,1 +1,2 @@
-This is the official bitbucket repository for Lucid News Reader Application for Android 4.4 or later. Project depends on an Amazon Web Services EC2 server for its data. Development has begun. This file will be updated soon.
+##Lucid
+This is the github repository for Lucid news reader app for android.
