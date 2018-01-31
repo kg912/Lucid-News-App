@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/library"
+            android:icon="@drawable/source_lib"
+            android:title="Categories" />
+        <item
+            android:id="@+id/sources"
+            android:icon="@drawable/ic_my_library_books_24dp"
+            android:title="News Library" />
+        <item
+            android:id="@+id/prefs"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Preferences" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

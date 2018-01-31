@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tk.lucidna.lucid.NotifyingScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:id="@+id/scrollview"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/recyclerView"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/materialback"
+        android:layout_marginTop="90dp"
+        />
+
+</tk.lucidna.lucid.NotifyingScrollView>
